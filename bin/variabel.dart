@@ -3,7 +3,9 @@ void main(List<String> args) {
 
   name = "Andri yabu";
 
+// deklarasi langsung variabel
+  String address = "Perumahan mega regency";
+
   print(name);
-  print(name);
-  print(name);
+  print(address);
 }
